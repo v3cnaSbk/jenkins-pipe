@@ -1,0 +1,7 @@
+git show -> show various types of objects
+
+git branch -> show the (list , create or delete branches)
+
+git fetch -> Download objects and refs from another repository
+
+git init -> Create an empty Git repository or reinitialize an existing one

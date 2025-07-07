@@ -4,6 +4,6 @@ module "web_instance" {
   instance_type = var.instance_type
   instance_name = var.instance_name
   instance = var.instance_name
-  instance = var.instance_name
+ 
 }
 
